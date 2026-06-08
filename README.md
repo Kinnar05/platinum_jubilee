@@ -1,2 +1,2 @@
-# platinum_jubilee
-Projrct from platinium_jubilee competition.
+# Platinum_jubilee
+Project from Platinium_jubilee competition.
