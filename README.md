@@ -14,6 +14,7 @@ SmartSense is a smart energy monitoring and automated control system designed to
 The project has two parallel tracks:
 - **Simulink Model** — A full system simulation in MATLAB R2024 validating the FSM logic, sensor fusion, energy accounting, and savings estimation.
 - **ESP32 Hardware Prototype** — A physical proof-of-concept using PIR, DHT22, LEDs, and an I²C LCD display.
+- https://wokwi.com/projects/466239196977045505
 
 ---
 
